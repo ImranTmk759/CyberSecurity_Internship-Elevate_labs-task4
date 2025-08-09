@@ -18,6 +18,7 @@ The project began with UFW not installed on the target Kali Linux system. This r
 `sudo systemctl enable ufw`
 ## Print Status
 ![boot](enable.png)
+
 **Enable logging to monitor firewall activity with the command:**
 `sudo ufw logging on`
 **Set Default policy in UFW by command:**
